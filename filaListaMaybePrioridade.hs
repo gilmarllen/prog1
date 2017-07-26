@@ -11,7 +11,6 @@ make_fila = FilaP []
 front (FilaP []) = Nothing
 front (FilaP l) = Just $ head l
 
-
 push ele (FilaP []) = FilaP [ele]
 push ele (FilaP l) | (head l) > ele = FilaP (ele : l)
                    | otherwise = push (head l) ( push ele (FilaP (tail l)) )

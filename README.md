@@ -8,7 +8,7 @@ Estruturas de Dados em Haskell
 5. arvore recursiva
 6. arvore binaria de busca
 7. arvore rubro-negra*
- representacao grafo
+8. representacao grafo
 
 Gilmarllen Pereira Miotto
 gilmarllen@gmail.com
