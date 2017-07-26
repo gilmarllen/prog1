@@ -1,5 +1,7 @@
 module PilhaL (PilhaL (..), make_pilha, top, push, pop, empty) where
 
+--Maybe apenas nos retornos, nao na estrutura
+
 data PilhaL p = PilhaL [p]
                 deriving (Show)
 

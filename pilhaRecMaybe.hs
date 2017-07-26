@@ -1,5 +1,7 @@
 module Pilha (Pilha (..), make_pilha, top, push, pop, empty) where
 
+--Maybe apenas nos retornos, nao na estrutura
+
 data Pilha p = Vazia
              | Elemento p (Pilha p)
              deriving (Show)
