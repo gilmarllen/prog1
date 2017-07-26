@@ -10,5 +10,5 @@ arvore binaria de busca
 arvore rubro-negra*
 representacao grafo
 
-#Gilmarllen Pereira Miotto
-#gilmarllen@gmail.com
+Gilmarllen Pereira Miotto
+gilmarllen@gmail.com
